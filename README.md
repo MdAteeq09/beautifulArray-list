@@ -3,7 +3,7 @@
 🚨 **This repository has been archived.**
 
 The code for **beautifulArray-list** has been moved to our main repository:  
-👉 [Array Programs – BeautifulAl](https://github.com/<your-username>/<main-repo>/tree/main/array/beautifulArray-list)
+👉 [Array Programs – BeautifulAl](https://github.com/MdAteeq09/Java_DSA_Practice/blob/main/Arrays/beautifulAL.java)
 
 ---
 
